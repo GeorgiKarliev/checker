@@ -226,7 +226,6 @@ The complete project report explains the implementation, individual functions, a
 
 [View Checker Project Report](docs/checker-report.pdf)
 
-*The report should be reviewed and sanitized before the repository is made public.*
 
 ## Ethical Use
 
