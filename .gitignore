@@ -1,0 +1,20 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Checker generated results
+checker_results/
+checker_project.log
+
+# Credentials and scan output
+usernames.txt
+passwords.txt
+password.lst
+*.gnmap
+*.zip
